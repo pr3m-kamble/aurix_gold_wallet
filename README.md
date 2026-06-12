@@ -6,7 +6,11 @@ A fintech-grade Flutter mobile application for managing digital gold assets — 
 
 ---
 
+<<<<<<< HEAD
 ##  Overview
+=======
+## 🎯 Overview
+>>>>>>> 6b95b44 (Update README)
 
 Aurix Gold Wallet is a feature-rich fintech app that allows users to:
 - **Authenticate** securely with form validation
@@ -18,7 +22,11 @@ Aurix Gold Wallet is a feature-rich fintech app that allows users to:
 
 ---
 
+<<<<<<< HEAD
 ##  Screenshots
+=======
+## 📸 Screenshots
+>>>>>>> 6b95b44 (Update README)
 
 | Login | Dashboard | Buy Gold | Transactions |
 |-------|-----------|----------|--------------|
@@ -26,7 +34,11 @@ Aurix Gold Wallet is a feature-rich fintech app that allows users to:
 
 ---
 
+<<<<<<< HEAD
 ##  Architecture Overview — MVVM with Riverpod
+=======
+## 🏗️ Architecture Overview — MVVM with Riverpod
+>>>>>>> 6b95b44 (Update README)
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -112,7 +124,11 @@ lib/
 
 ---
 
+<<<<<<< HEAD
 ##  Getting Started
+=======
+## 🚀 Getting Started
+>>>>>>> 6b95b44 (Update README)
 
 ### Prerequisites
 - Flutter SDK >= 3.0.0
@@ -120,7 +136,11 @@ lib/
 - Chrome (for web testing)
 - Git
 
+<<<<<<< HEAD
 ### 1 Clone & Install
+=======
+### 1️⃣ Clone & Install
+>>>>>>> 6b95b44 (Update README)
 
 ```bash
 git clone https://github.com/PR3M-KAMBLE/aurix_gold_wallet.git
@@ -130,7 +150,11 @@ cd aurix_gold_wallet
 flutter pub get
 ```
 
+<<<<<<< HEAD
 ### 2 Get GoldAPI Key (Live Prices)
+=======
+### 2️⃣ Get GoldAPI Key (Live Prices)
+>>>>>>> 6b95b44 (Update README)
 
 To use **live gold prices** from GoldAPI:
 
@@ -139,7 +163,11 @@ To use **live gold prices** from GoldAPI:
 3. Copy your API key from the dashboard
 4. Use one of the methods below to provide the key
 
+<<<<<<< HEAD
 ### 3 Run the App
+=======
+### 3️⃣ Run the App
+>>>>>>> 6b95b44 (Update README)
 
 #### Option A: Using `.env` file (Recommended for local dev)
 
@@ -191,7 +219,11 @@ flutter build web --release
 
 ---
 
+<<<<<<< HEAD
 ##  API Key Security
+=======
+## 🔐 API Key Security
+>>>>>>> 6b95b44 (Update README)
 
 > ⚠️ **Never commit your actual API key to version control!**
 
@@ -202,7 +234,11 @@ flutter build web --release
 
 ---
 
+<<<<<<< HEAD
 ##  Demo Login Credentials
+=======
+## 🔑 Demo Login Credentials
+>>>>>>> 6b95b44 (Update README)
 
 ```
 Email:    demo@aurix.com
@@ -211,7 +247,11 @@ Password: password123
 
 ---
 
+<<<<<<< HEAD
 ##  Features
+=======
+## ✨ Features
+>>>>>>> 6b95b44 (Update README)
 
 | # | Feature | Status |
 |---|---------|--------|
@@ -231,7 +271,11 @@ Password: password123
 
 ---
 
+<<<<<<< HEAD
 ##  Dependencies
+=======
+## 📦 Dependencies
+>>>>>>> 6b95b44 (Update README)
 
 ### Core Framework
 - **flutter** - Google's UI framework
@@ -291,7 +335,11 @@ The app gracefully handles all API failures and seamlessly falls back to mock pr
 
 ---
 
+<<<<<<< HEAD
 ##  Future Enhancements
+=======
+## 🚧 Future Enhancements
+>>>>>>> 6b95b44 (Update README)
 
 - [ ] Firebase Auth + Firestore for production backend
 - [ ] Real account verification & KYC flow
@@ -308,7 +356,11 @@ The app gracefully handles all API failures and seamlessly falls back to mock pr
 
 ---
 
+<<<<<<< HEAD
 ##  Supported Platforms
+=======
+## 📱 Supported Platforms
+>>>>>>> 6b95b44 (Update README)
 
 - ✅ **Android** (API 21+)
 - ✅ **iOS** (12.0+)
@@ -319,7 +371,11 @@ The app gracefully handles all API failures and seamlessly falls back to mock pr
 
 ---
 
+<<<<<<< HEAD
 ##  Testing
+=======
+## 🧪 Testing
+>>>>>>> 6b95b44 (Update README)
 
 ```bash
 # Run analyzer
