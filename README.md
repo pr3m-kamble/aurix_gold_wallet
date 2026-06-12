@@ -28,9 +28,17 @@ Aurix Gold Wallet is a feature-rich fintech app that allows users to:
 ## 📸 Screenshots
 >>>>>>> 6b95b44 (Update README)
 
-| Login | Dashboard | Buy Gold | Transactions |
-|-------|-----------|----------|--------------|
-| Dark fintech UI | Portfolio + chart | Real-time calculator | Filterable history |
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshots/login.png" width="250" height="500" alt="Login Screen"/>
+  <img src="Screenshots/dashboard.png" width="250" height="500" alt="Dashboard Screen"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/buy.png" width="250" height="500" alt="Buy Gold Screen"/>
+  <img src="Screenshots/transaction.png" width="250" height="500" alt="Transaction Screen"/>
+</p>
 
 ---
 
