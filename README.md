@@ -39,7 +39,7 @@ Aurix Gold Wallet is a feature-rich fintech app that allows users to:
 
 ##  Architecture Overview — MVVM with Riverpod
 
-## 🏗️ Architecture Overview — MVVM with Riverpod
+##  Architecture Overview — MVVM with Riverpod
 
 
 ```
